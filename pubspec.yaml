@@ -10,10 +10,23 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.4
+  flutter_modular: ^4.0.1+2
+  mobx:
+  flutter_mobx:
+  dartz:
+  equatable:
+  connectivity:
+  json_annotation:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  mocktail: ^0.1.4
+  mobx_codegen:
+  modular_codegen: 3.0.3
+  build_runner:
+  json_serializable:
+  effective_dart:
 
 flutter:
   uses-material-design: true
