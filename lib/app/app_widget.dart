@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:login/app/app_colors.dart';
+import 'package:login/app/core/theme/app_colors.dart';
 
 class AppWidget extends StatefulWidget {
   @override
